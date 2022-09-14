@@ -32,7 +32,6 @@ public class Website {
         }
         else{
             Teacher t = new Teacher(name, email, pass); //create a Teacher//
-            System.out.println(name + " is succesfully added to the system..\n");
             return teachersList.add(t); //add this Teacher to the ArrayList "teachersList"// 
         }
     }
