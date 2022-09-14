@@ -13,7 +13,7 @@ public class TeacherWebsite {
     }
 
     private static void selectMenue() {
-                System.out.println("\t---Welcom to the system---\n\n- Choose the operation number:");
+        System.out.println("\t---Welcom to the system---\n\n- Choose the operation number:");
         System.out.println("  1 to Sign up");
         System.out.println("  2 to Log In");
         System.out.println("  3 to Add Course");
