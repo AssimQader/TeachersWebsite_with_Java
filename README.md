@@ -1,1 +1,1 @@
-# TeachersWebsite_with_Java
+# TeachersWebsite-with-Java
