@@ -7,6 +7,9 @@ public class TeacherWebsite {
     public static void main(String[] args)
     {
         selectMenue();
+        System.out.println("\t---Welcom to the system---\n\n- Choose the operation number:");
+        byte num = 0;
+        num = new Scanner(System.in).nextByte(num);
     }
 
     private static void selectMenue() {
